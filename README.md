@@ -32,7 +32,7 @@ Each node has the following information:
 3. Whether or not it is a subscriber
 
 To visualize the communication of nodes in ROS the command `rqt graph` can be used.
-![image](assets/rgt_graph.png)
+![image](assets/rqt_graph.png)
 
 ## ROS NODES EXAMPLE
 
